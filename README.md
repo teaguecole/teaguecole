@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teaguecole
-- 👀 I’m interested in autonomous vehicles
+- 👀 I’m interested in autonomous vehicles, cloud native stuff and coffee
 - 🌱 I’m currently learning c++, go, rust on the side
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: email or slack
